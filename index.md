@@ -41,12 +41,14 @@ Yu, S., Yuan, K., & Liu, C. (under review). EFL student teachers’ emotional re
 Liu, C., & Yu, S. (2021). Exploring Master’s students’ emotions and emotion-regulation in supervisory feedback situations: A vignette-based study. Assessment & Evaluation in Higher Education, 47(7), 1101–1115. 
 
 Yu, S., Zheng, Y., Jiang, L., Liu, C., & Xu, Y. (2021). “I even feel annoyed and angry”: Teacher emotional experiences in giving feedback on student writing. Assessing Writing, 48, 100528. 
-Classroom Assessment
+
+- **Classroom Assessment**
 
 Zheng, Y., Liu, C., & Yu, S. (under review). “How should I assess their writing? It’s my headache. …”: Understanding writing teacher assessment literacy in collaborative writing context. 
 
 Li, M., Yu, S., Mak, P., & Liu, C. (2023). Exploring the efficacy of peer assessment in university translation classrooms. The Interpreter and Translator Trainer, 17(4), 585–609.
-Second Language Teaching and Learning
+
+- **Second Language Teaching and Learning**
 
 Yu, C., Liu, J., & Liu, C. (work in progress). Attitudes matter in book reviews: Established scholars V.S. emerging writers. In P. Kwok, J. Cutri, & E. Saito (Eds.), Navigating the scholarly seas: Practical hints and feasible strategies for emerging researchers. Routledge.
 
@@ -69,7 +71,8 @@ Geng, F., Yu, S., & Liu, C., & Liu, Z. (2022). Teaching and learning writing in 
 Liu, C., & Tseng, M. (2021). Paradigmatic variation in hedging and boosting: A comparative study of discussions in narrative inquiry and grounded theory research. English for Specific Purposes, 61, 1–16. 
 
 Liu, C. & Yu, C. (2019). Understanding students’ motivation in translation learning: A case study from the self-concept perspective. Asian-Pacific Journal of Second and Foreign Language Education, 4, No. 4. 
-Feedback as Learning
+
+- **Feedback as Learning**
 
 Yu, S., Zhang, D., & Liu, C. (in contract). Student feedback literacy in second language writing. De Gruyter.
 
