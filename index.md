@@ -20,10 +20,14 @@ I am a Ph.D. Candidate in Languages, Cultures, and Literacies at the Faculty of 
 
 Liu, C., & Lin, A. M. Y. (in press). Plurilingual and intercultural competence. In S., Melo-Pfeifer & C., Ollivier (Eds.), Reference book on multilingual education. Peter Lang.
 Liu, C., Chen, Q., Zhang, L., & Lin, A. M. Y. (2025). Play-literacy interface in childhood education: Across the scales of time and space. Contemporary Issues in Early Childhood, Advance online.
+
 - **Content and Language Integrated Learning**
+
 Liu, C., & Lin, A. M. Y. (work in progress). “He drowned himself practically”: Exploring students’ transknowledging in scientific reasoning in a biology CLIL classroom.
 Liu, C., Barker, M., Chen, Q., Cheng, M. M. W., Oyelekan, S., & Lin, A. M. Y. (2024). “He drank too much Gatorade”: Exploring learner conceptions about water intoxification from a social semiotic perspective. Linguistics and Education, 85, 101377.
-Emotions
+
+- **Emotions**
+
 Liu, C., & Lin, A. M. Y. (work in progress; invited book chapter). Towards an ethics of criticality: Positionality, reflexivity, and affect in critical discourse analysis.
 Liu, C., & Huang, T. (work in progress). Exploring the affect of (un)preparedness of novice university teachers in China: A genealogical analysis.
 Liu, C., & Tseng, M. (ready for submission). Locality vs. Globality: Exploring Chinese scholars’ epistemic emotions in an English-medium international journal.
